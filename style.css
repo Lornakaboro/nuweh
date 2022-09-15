@@ -1,0 +1,249 @@
+.social-media-section {
+    background-color: #272a31;
+    align-items: center;
+}
+
+.social-media {
+    list-style: none;
+    align-items: center;
+    text-align: center;
+}
+
+.social-media-item {
+  text-decoration: none;
+  color: #d3d3d3;
+}
+
+.social-media-row {
+    align-items: center;
+    text-align: center;
+    padding-top: 0.8%;
+}
+
+.nav {
+    align-items: center;
+    text-align: center;
+    flex: 2;
+}
+
+.nav-list {
+    display: flex;
+}
+
+.nav-item {
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  /* padding: 0; */
+
+}
+
+.header-logo {
+    width: 50%;
+    height: 100%;
+}
+
+.header-logo-link {
+    flex: 1;
+}
+
+.intro-section {
+    background-image: url("./images/background-image.png");
+    height: 100vh;
+}
+
+.introduction {
+    padding-top: 10%;
+    color: #ec5242;
+}
+
+.introduction-title {
+    font-size: 60px;
+    font-weight: 700;
+    width: 70%;
+}
+
+.introduction-description {
+    width: 60%;
+    background-color: #e7e7e7;
+    border: #fff solid 2px;
+    color: #58595a;
+    padding: 0.8rem;
+}
+
+
+.introduction-offers {
+    color: #272a31;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.introduction-time {
+    color: #58595a;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.nuweh-programs {
+    background-image: url("./images/black-wooden-plank-textured-background.jpg");
+}
+
+.featured-programs {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+}
+
+.featured-program-item {
+    background-color: rgba(88,89,90,0.8);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-right: 0.5%;
+    width: 15%;
+    padding: 1%;
+}
+
+.program-title {
+    color: #ec5242;
+    /* width: ; */
+
+}
+
+.program-description {
+    color: #fff;
+
+}
+
+.specialist-image {
+    width: 35%;
+    height: 50%;
+}
+
+.sponsors {
+    background-color: #272a31;
+    color: #d3d3d3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsor-items {
+    list-style: none;
+    display: flex;
+    width: 75%;
+    font-size: 48px;
+}
+
+.project-rights-home {
+    display: flex;
+    align-items: center;
+    padding: 4%;
+}
+
+.footer-logo {
+    width: 30%;
+    height: 50%;
+    margin-right: 10%;
+}
+/* About section */
+
+.about-introduction {
+    display: flex;
+    padding-top: 10%;
+    color: #ec5242;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-introduction-message {
+    font-size: 60px;
+    font-weight: 700;
+    width: 80%;
+    text-align: center;
+}
+
+.about-description {
+    width: 80%;
+    background-color: #e7e7e7;
+    border: #fff solid 2px;
+    color: #58595a;
+    padding: 0.8rem;
+    text-align: center;
+}
+
+.about-email {
+    color: #272a31;
+}
+
+.about-email-link {
+    color: #000;
+}
+
+.logo-section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.about-border {
+    border-top: #d3d3d3 solid 4px;
+}
+
+.about-logo-section-description {
+    text-align: center;
+}
+
+.about-section-logo-image {
+    border: #d3d3d3 solid 2px;
+    width: 50%;
+}
+
+.our-features {
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    padding-top: 8%; 
+    padding-bottom: 8%;
+}
+
+.our-features-heading {
+    text-align: center;
+}
+
+.our-features-description {
+    text-align: center;
+}
+
+.feature-programs {
+    display: flex;
+    /* flex: 1; */
+}
+
+.feature-program-name {
+    flex: 1;
+    text-align: center;
+}
+
+.project-rights-about {
+    background-color: #272a31;
+    display: flex;
+    align-items: center;
+    padding: 4%;
+}
+
+
+.footer-content {
+    color: #d3d3d3;
+}
+
+.footer-logo-about {
+    width: 30%;
+    height: 50%;
+    margin-right: 10%;
+}
